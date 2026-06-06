@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m a student and creative web learner 🌱<br>😄🐞I love building simple UI designs and exploring AI tools ⚡<br>Currently learning HTML, CSS & JavaScript 💻<br>Always trying to turn ideas into cool projects ✨
+Hi, I’m  a student and creative web learner 🌱<br>😄🐞I love building simple UI designs and exploring AI tools ⚡<br>Currently learning HTML, CSS & JavaScript 💻<br>Always trying to turn ideas into cool projects ✨
 
 
 ## 🌐 Socials:
